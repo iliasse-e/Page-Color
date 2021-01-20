@@ -1,0 +1,9 @@
+#button {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+body {
+	width: 1000px;
+    margin: 25em;
+}
